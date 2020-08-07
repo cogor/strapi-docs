@@ -2,8 +2,8 @@
   "title": "Strapi Documentation",
   "url": "https://strapi-docs.vercel.app",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo-dark.svg",
+    "dark": "/logo-light.svg"
   },
   "github": "cogor/strapi-docs"
 }
