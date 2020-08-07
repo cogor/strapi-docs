@@ -1,6 +1,6 @@
 {
   "title": "Strapi Documentation",
-  "url": "",
+  "url": "https://strapi-docs.vercel.app",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
